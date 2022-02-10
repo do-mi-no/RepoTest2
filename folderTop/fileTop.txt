@@ -1,0 +1,8 @@
+[02_09_RepoTest2]
+  |---[folderTop]
+          |---[folder1_empty]
+          |---[folder2_3files]
+	  |	|--- file1.txt
+	  |	|--- file2.txt
+	  |	|--- file3.txt
+          |---fileTop.txt
